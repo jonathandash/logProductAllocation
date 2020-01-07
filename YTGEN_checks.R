@@ -1,6 +1,6 @@
 #******************************************************************************
 # Analysis for the report - Checks on YTGEN Yield Tables
-# Margules Groome - ForestrySA
+# Margules Groome 
 # December 2019
 #******************************************************************************
 
