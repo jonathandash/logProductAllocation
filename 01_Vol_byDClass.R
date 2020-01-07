@@ -1,6 +1,5 @@
 #******************************************************************************
-# This script provides functions to replicate the log product matrix originally
-# developed by Jan Rombouts.
+# This script provides functions to replicate the log product matrix.
 # The script imports data from a SQL database containing the database table
 # output from YTGEN, Care should be taken to ensure that the YTGEN Yield Request
 # is set up correctly. Yield requests that include thinnings should be named
